@@ -9,3 +9,4 @@ Every build in this repository, oldest first. Each one is a release with its own
 - Pre-alpha playtest 5 (2026-10-13), from source `e263ca3`
 - Pre-alpha playtest 6 (2026-10-13), from source `2d13724`
 - Pre-alpha playtest 7 (2026-10-13), from source `d0c1174`
+- Pre-alpha playtest 8 (2026-10-13), from source `ecf0335`
