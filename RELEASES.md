@@ -12,3 +12,4 @@ Every build in this repository, oldest first. Each one is a release with its own
 - Pre-alpha playtest 8 (2026-10-13), from source `ecf0335`
 - Pre-alpha playtest 9 (2026-10-14), from source `1c56360`
 - Pre-alpha playtest 10 (2026-10-14), from source `8817fd9`
+- Pre-alpha playtest 11 (2026-10-15), from source `fe46c62`
