@@ -17,3 +17,4 @@ Every build in this repository, oldest first. Each one is a release with its own
 - Pre-alpha playtest 13 (2026-10-16), from source `fe5227f`
 - Pre-alpha playtest 14 (2026-10-17), from source `725b9c3`
 - Pre-alpha playtest 15 (2026-10-20), from source `fd4ec33`
+- Pre-alpha playtest 16 (2026-10-20), from source `eede3e4`
