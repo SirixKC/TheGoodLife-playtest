@@ -20,3 +20,4 @@ Every build in this repository, oldest first. Each one is a release with its own
 - Pre-alpha playtest 16 (2026-10-20), from source `eede3e4`
 - Pre-alpha playtest 17 (2026-10-21), from source `100bd78`
 - Pre-alpha playtest 18 (2026-10-22), from source `c7361ed`
+- Pre-alpha playtest 19 (2026-10-22), from source `f62a100`
